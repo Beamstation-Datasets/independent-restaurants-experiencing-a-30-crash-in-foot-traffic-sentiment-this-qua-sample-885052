@@ -9,9 +9,9 @@
 | Dataset ID | `885052` |
 | Location | Delaware |
 | Category | Food and Drink |
-| Full dataset size | 126 records |
-| Free sample size | 12 records (9.52%) |
-| Last export | 2026-04-16T23:04:01.711732+00:00 |
+| Full dataset size | 129 records |
+| Free sample size | 12 records (9.3%) |
+| Last export | 2026-04-23T17:31:03.364176+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-885052/releases/download/sample-latest/beamstation_885052_food_and_drink-us-de_SAMPLE_DIST.csv) |
 
 ## What is in this sample
